@@ -1,16 +1,30 @@
-## Hi there 👋
+👋 Hey, I'm Nandhini
 
-<!--
-**Nandhumurugan30/nandhumurugan30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Computer Science Student  
+☕ Java Enthusiast | Full Stack Learner  
+🚀 Passionate about building real-world applications and exploring new technologies.
 
-Here are some ideas to get you started:
+🌱 Currently Learning
+✨ Java & Object-Oriented Programming  
+✨ Full Stack Development  
+✨ Data Structures & Algorithms  
+✨ AI and Computer Vision  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+⚡ Java  
+⚡ Python  
+⚡ HTML, CSS, JavaScript  
+⚡ Git & GitHub  
+
+🔭 Projects
+🚀 Gesture Control System  
+
+📈 Goals
+🎯 Become a Full Stack Java Developer  
+🎯 Contribute to Open Source  
+🎯 Build impactful software solutions  
+
+⚡ Fun Fact
+💡 I enjoy turning ideas into real projects through code 🚀
+
+⭐ “Code. Learn. Build. Repeat.”
