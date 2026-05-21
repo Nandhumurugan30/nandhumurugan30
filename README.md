@@ -1,17 +1,15 @@
 💫 About Me:
+
 👋 Hey! I'm Nandhini  
 💻 Computer Science Student passionate about technology and development  
 ☕ Interested in Java, Full Stack Development, AI & Problem Solving  
 🚀 Currently building real-world projects and improving development skills  
 🌱 Learning Data Structures, Algorithms, and modern web technologies  
 🤝 Open to collaborating on innovative and creative projects  
-⚡ Fun fact: I love the moment when a project finally works after hours of debugging 😄
 
 🌐 Connect With Me:
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhumurugan@gmail.com)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nandhumurugan@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 
 💻 Tech Stack:
 
@@ -28,3 +26,5 @@
 
 # 📊 GitHub Stats:
 ⭐ Learning • Building • Growing
+
+⚡ Fun fact: I love the moment when a project finally works after hours of debugging.
