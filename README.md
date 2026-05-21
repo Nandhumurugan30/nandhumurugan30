@@ -5,7 +5,9 @@
 ☕ Interested in Java, Full Stack Development, AI & Problem Solving  
 🚀 Currently building real-world projects and improving development skills  
 🌱 Learning Data Structures, Algorithms, and modern web technologies  
-🤝 Open to collaborating on innovative and creative projects  
+🤝 Open to collaborating on innovative and creative projects
+
+⚡ Fun fact:I love the moment when a project finally works after hours of debugging.
 
 🌐 Connect With Me:
 
@@ -27,4 +29,3 @@
 # 📊 GitHub Stats:
 ⭐ Learning • Building • Growing
 
-⚡ Fun fact: I love the moment when a project finally works after hours of debugging.
