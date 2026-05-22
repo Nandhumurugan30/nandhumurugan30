@@ -24,8 +24,8 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 # 🚀 Projects:
-✨ Gesture Control System  
-
+✨ Gesture Control System 
+✨ Portfolio student website
 # 📊 GitHub Stats:
 ⭐ Learning • Building • Growing
 
